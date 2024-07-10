@@ -1,2 +1,2 @@
 # ML-project
-In this machine learning project, we began by preparing the dataset, which involved loading the data, addressing missing values, and encoding categorical features.  
+ I prepared the dataset by handling missing values and encoding categorical features. Then, I conducted exploratory data analysis (EDA) to understand feature distributions and correlations. Finally, I trained a RandomForestClassifier and evaluated its performance.
